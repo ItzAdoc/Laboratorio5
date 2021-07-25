@@ -30,21 +30,39 @@ _*CIRUCITO DE THÉVENIN*_
 
 1.	Se elige que parte del circuito se reemplazara por el de Thévenin, en este caso es todo menos R5. 
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C1.png)
+
 2.	Se reemplaza todas las fuentes de voltaje por un corto y se elimina R5.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C2.PNG)
 
 3.	Se calcula la resistencia total del circuito que nos queda, esta resistencia será la equivalente a la resistencia de Thévenin. 
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C3.PNG)
+
 4.	Se vuelve a ubicar las fuentes de alimentación y se calcula el voltaje de ab.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C4.PNG)
 
 5.	Como por R4 no circula ningún voltaje o corriente se la puede eliminar y se calcula el voltaje de R3 que es mismo que el voltaje de ab.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C5.png)
+
 6.	Se procede a calcular con el método más conveniente, en este caso será por de método de superposición 
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C6.PNG)
 
 7.	Se hace cero a la fuente de 2V.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C7.PNG)
+
 8.	Se calcula el voltaje de R3, para ello se necesita la resistencia total del circuito.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C8.PNG)
+
 9.	Con esta RT se saca la IT.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C9.PNG)
 
 10.	Se saca el voltaje que circula por R3 aplicando leyes de Kirchhoff.
 
@@ -71,24 +89,33 @@ __4. Respuesta a Interrogantes y Calculo de Error__
 
 4.1. Arme el circuito que se muestra en la figura 5.1.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.1.png)
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.1a.png)
 
 4.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.1
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.2.png)
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.2a.png)
 
 4.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.3.png)
 
 4.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.4.png)
 
 4.5. Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.5.png)
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/4.5a.png)
 Calculo de Error
 
-+
++ Error en los valores equivalentes de Thévenin
 
-+
++ Error en el circuito original
+
++ Error en el Circuito Equivalente De Thévenin
