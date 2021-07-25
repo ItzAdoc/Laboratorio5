@@ -163,3 +163,17 @@ Calculo de Error
 + Error en el Circuito Equivalente De Thévenin
 
 ![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/ECTH.PNG)
+
+__5. Video__
+
+* 
+
+__6. Coclusiones__ 
+
+*
+
+*
+
+__7. Bibliografía__
+
+* Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
