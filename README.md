@@ -16,53 +16,78 @@ __3. Explicación del Procedimiento__
 _*CIRCUITO PRINCIPAL*_
 
 1. Se hace 0 a la fuente de 2V.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C1.png)
+
 2. Se calcula la resistencia total y con ella corriente total.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C2.PNG)
+
 3. Se calcula la corriente en R5.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C3.PNG)
+
 4. Se calcula el voltaje de R5 con leyes de Kirchhoff. 
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C4.PNG)
+
 5. Se hace 0 la fuente de 2V.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C5.png)
+
 6. Se calcula la resistencia total y con ella corriente total.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C6.PNG)
+
 7. Se calcula la corriente en R5.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C7.PNG)
+
 8. Se calcula el voltaje de R5 con leyes de Kirchhoff. 
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C8.PNG)
+
 9. Se suma o resta los valores obtenidos tanto para corriente como para voltaje, en este caso se suman porque tienen el mismo sentido.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C9.PNG)
 
 _*CIRUCITO DE THÉVENIN*_
 
 1.	Se elige que parte del circuito se reemplazara por el de Thévenin, en este caso es todo menos R5. 
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C1.png)
+
 
 2.	Se reemplaza todas las fuentes de voltaje por un corto y se elimina R5.
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C2.PNG)
+
 
 3.	Se calcula la resistencia total del circuito que nos queda, esta resistencia será la equivalente a la resistencia de Thévenin. 
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C3.PNG)
+
 
 4.	Se vuelve a ubicar las fuentes de alimentación y se calcula el voltaje de ab.
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C4.PNG)
+
 
 5.	Como por R4 no circula ningún voltaje o corriente se la puede eliminar y se calcula el voltaje de R3 que es mismo que el voltaje de ab.
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C5.png)
+
 
 6.	Se procede a calcular con el método más conveniente, en este caso será por de método de superposición 
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C6.PNG)
+
 
 7.	Se hace cero a la fuente de 2V.
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C7.PNG)
+
 
 8.	Se calcula el voltaje de R3, para ello se necesita la resistencia total del circuito.
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C8.PNG)
+
 
 9.	Con esta RT se saca la IT.
 
-![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C9.PNG)
+
 
 10.	Se saca el voltaje que circula por R3 aplicando leyes de Kirchhoff.
 
