@@ -58,7 +58,13 @@ _*CIRUCITO DE THÉVENIN*_
 
 15.	Se añade al circuito de Thévenin R5.
 
+16.	Se calcula RT. Y con RT se saca la corriente total que es la misma para todo el circuito y el voltaje de R5.
 
+Por último se anotá los valores obtenidos en las tablas.
+
+Tabla 5.1. Valores del Circuito Equivalente de Thévenin
+
+Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 
 __4. Respuesta a Interrogantes y Calculo de Error__
@@ -81,3 +87,8 @@ __4. Respuesta a Interrogantes y Calculo de Error__
 4.5. Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 
+Calculo de Error
+
++
+
++
