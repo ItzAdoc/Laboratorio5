@@ -13,7 +13,7 @@ __2. Marco Teórico__
 
 __3. Explicación del Procedimiento__
 
-_*CIRCUITO PRINCIPAL*_
+__*CIRCUITO PRINCIPAL*__
 
 1. Se hace 0 a la fuente de 2V.
 
@@ -51,64 +51,77 @@ _*CIRCUITO PRINCIPAL*_
 
 ![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/C9.PNG)
 
-_*CIRUCITO DE THÉVENIN*_
+__*CIRUCITO DE THÉVENIN*__
 
 1.	Se elige que parte del circuito se reemplazara por el de Thévenin, en este caso es todo menos R5. 
 
-
-
 2.	Se reemplaza todas las fuentes de voltaje por un corto y se elimina R5.
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T2.png)
 
 3.	Se calcula la resistencia total del circuito que nos queda, esta resistencia será la equivalente a la resistencia de Thévenin. 
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T3.PNG)
 
 4.	Se vuelve a ubicar las fuentes de alimentación y se calcula el voltaje de ab.
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T4.png)
 
 5.	Como por R4 no circula ningún voltaje o corriente se la puede eliminar y se calcula el voltaje de R3 que es mismo que el voltaje de ab.
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T5.png)
 
 6.	Se procede a calcular con el método más conveniente, en este caso será por de método de superposición 
 
-
-
 7.	Se hace cero a la fuente de 2V.
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T7.png)
 
 8.	Se calcula el voltaje de R3, para ello se necesita la resistencia total del circuito.
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T8.PNG)
 
 9.	Con esta RT se saca la IT.
 
-
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T9.PNG)
 
 10.	Se saca el voltaje que circula por R3 aplicando leyes de Kirchhoff.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T10.PNG)
+
 11.	Ahora se hace 0 a la fuente de 12V.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T11.png)
 
 12.	Se saca el voltaje de R3 con divisor de voltaje, para ello necesitamos RT. 
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T12.PNG)
+
 13.	Se suma o resta los voltajes obtenidos cuando cada una de las fuentes fue 0. En este caso se suma puesto que tiene el mismo sentido y con esto se obtiene el voltaje de R3 que es voltaje de ab.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T13.PNG)
 
 14.	Con los valores obtenidos de resistencia y voltaje se crea el circuito de Thévenin.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T14.png)
+
 15.	Se añade al circuito de Thévenin R5.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T15.png)
+
 16.	Se calcula RT. Y con RT se saca la corriente total que es la misma para todo el circuito y el voltaje de R5.
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/T16.PNG)
 
 Por último se anotá los valores obtenidos en las tablas.
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/Tabla5.1.PNG)
+
 Tabla 5.2. Comprobación del Teorema de Thévenin.
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/Tabla5.2.PNG)
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
@@ -141,6 +154,12 @@ Calculo de Error
 
 + Error en los valores equivalentes de Thévenin
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/ETH.PNG)
+
 + Error en el circuito original
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/ECO.PNG)
+
 + Error en el Circuito Equivalente De Thévenin
+
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/ECTH.PNG)
