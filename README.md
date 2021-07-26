@@ -3,10 +3,14 @@
 __1. Objetivos__
 
 *Objetivo General*
-* 
+
+* Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 *Objetivos Específicos*
 
+* Realizar mediciones aplicando el teorema de Thévenin para darnos cuenta de que el resultado es el mismo si utilizamos el análisis matemático y el experimental.
+
+* Analizar que sucede con el circuito al omento de aplicar el Teorema de Thévenin
 
 __2. Marco Teórico__ 
 
@@ -171,9 +175,14 @@ __5. Video__
 
 __6. Coclusiones__ 
 
-*
+* La práctica nos permitió ser capaces de llevar a cabo el teorema de Thévenin, comprobándolo de manera matemática y práctica apoyándonos en los conocimientos obtenidos.
+ 
+* Aplicar el Teorema de Thévenin dependiendo del circuito puede ser muy sencillo o complicado, pero para hacerlo de la mejor manera hay que aplicar todos los conocimientos adquiridos hasta ahora.
 
-*
+* La manera matemática fue realizada como comprobación de todo lo que se hizo en la manera experimental.
+
+* Se puede apreciar que los resultados fueron bastantes similares, ya que estos se aproximaron mucho, los pequeños porcentajes de error se deben a que al menos en la parte matemática se aproximaba valores, y por tanto no se usaba todos los decimales.
+
 
 __7. Bibliografía__
 
