@@ -10,6 +10,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
+![](https://github.com/ItzAdoc/ImagenesLab5/blob/main/mt.PNG)
 
 __3. Explicación del Procedimiento__
 
