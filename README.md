@@ -171,7 +171,7 @@ Calculo de Error
 
 __5. Video__
 
-* 
+* https://youtu.be/v8uYqxDW6es
 
 __6. Coclusiones__ 
 
